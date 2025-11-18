@@ -1,48 +1,33 @@
-<!-- PORTADA -->
-<p align="center">
-  <img src="https://i.imgur.com/FnXcYwE.png" width="100%" />
-</p>
-
-<h1 align="center">✨ Hola, soy Juan David ✨</h1>
+<h1 align="center">Juan David Arzayus</h1>
 
 <p align="center">
-  <strong>⚙️ Desarrollador • 🚀 Creativo • 📈 Construyendo cosas</strong><br>
+  <strong>Junior Full-Stack Developer</strong><br>
+  Enfocado en construir soluciones simples, claras y eficientes.
 </p>
 
 ---
 
-## 🌈 Sobre mí
-- 💻 Me encanta desarrollar proyectos útiles y con buen diseño.  
-- 🎨 Prefiero estilos minimalistas pero con personalidad.  
-- 📚 Siempre aprendiendo nuevas tecnologías.  
+## 🧾 Sobre mí
+Soy un desarrollador en crecimiento, apasionado por aprender nuevas tecnologías y mejorar mi código día a día. Me gusta crear aplicaciones útiles, con estructuras limpias y buenas prácticas.
 
 ---
 
-## 🔗 Encuéntrame en:
+## 🧩 Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github,vscode" />
+</p>
+
+---
+
+## 📬 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <br><br>
+  ✉️ juandavidarzayus@hotmail.com
 </p>
 
 ---
 
-## 🎨 Tecnologías que uso
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,mysql,git,github,vscode" />
-</p>
-
----
-
-## 🔥 Proyectos Destacados
-- 🚀 **Proyecto 1:** Breve descripción elegante.  
-- 🎯 **Proyecto 2:** Otro proyecto con buena pinta.  
-- 🧪 **Proyecto 3:** Explorando nuevas tecnologías.  
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dyR8C5O.gif" width="250px">
-</p>
-
-<p align="center">💫 *Gracias por visitar mi perfil* 💫</p>
+<p align="center">Gracias por visitar mi perfil.</p>
