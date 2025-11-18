@@ -7,8 +7,13 @@
 
 ---
 
+## 🎯 Objetivo Profesional
+Busco crecer como desarrollador full-stack, participar en proyectos reales y continuar mejorando mis habilidades técnicas. Mi objetivo es aportar soluciones que sean útiles, estables y bien estructuradas, mientras aprendo de equipos que valoren la calidad y las buenas prácticas.
+
+---
+
 ## 🧾 Sobre mí
-Soy un desarrollador en crecimiento, apasionado por aprender nuevas tecnologías y mejorar mi código día a día. Me gusta crear aplicaciones útiles, con estructuras limpias y buenas prácticas.
+Soy un desarrollador en crecimiento, apasionado por aprender nuevas tecnologías y mejorar mi código día a día. Me gusta crear aplicaciones útiles y mantener una estructura clara y ordenada en cada proyecto.
 
 ---
 
@@ -30,4 +35,4 @@ Soy un desarrollador en crecimiento, apasionado por aprender nuevas tecnologías
 
 ---
 
-<p align="center">Gracias por visitar mi perfil.</p>
+<p align="center"><i>“Construyendo mi camino como desarrollador.”</i></p>
