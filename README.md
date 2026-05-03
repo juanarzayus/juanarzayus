@@ -1,38 +1,63 @@
-<h1 align="center">Juan David Arzayus</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00C2FF&height=200&section=header&text=Juan%20David%20Arzayus&fontSize=70&animation=fadeIn&fontColor=050608" />
+</h1>
 
 <p align="center">
-  <strong>Junior Full-Stack Developer</strong><br>
-  Enfocado en construir soluciones simples, claras y eficientes.
-</p>
-
----
-
-## 🎯 Objetivo Profesional
-Busco crecer como desarrollador full-stack, participar en proyectos reales y continuar mejorando mis habilidades técnicas. Mi objetivo es aportar soluciones que sean útiles, estables y bien estructuradas, mientras aprendo de equipos que valoren la calidad y las buenas prácticas.
-
----
-
-## 🧾 Sobre mí
-Soy un desarrollador en crecimiento, apasionado por aprender nuevas tecnologías y mejorar mi código día a día. Me gusta crear aplicaciones útiles y mantener una estructura clara y ordenada en cada proyecto.
-
----
-
-## 🧩 Tecnologías
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github,vscode" />
-</p>
-
----
-
-## 📬 Contacto
-<p align="center">
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,nodejs,python,supabase,figma,blender" />
   </a>
-  <br><br>
-  ✉️ juandavidarzayus@hotmail.com
+</p>
+
+<p align="center">
+  <strong>Full-Stack Developer | Software Designer | Creative Technologist</strong><br>
+  Especializado en construir soluciones digitales robustas con experiencias interactivas.
 </p>
 
 ---
 
-<p align="center"><i>“Construyendo mi camino como desarrollador.”</i></p>
+### ⚡ Sobre mí
+
+Desarrollador enfocado en la intersección entre el **diseño visual de alto nivel** y la **ingeniería de software eficiente**. Me apasiona crear ecosistemas digitales escalables y optimizar la interacción del usuario mediante tecnologías modernas y renderizado 3D en la web.
+
+- 📍 Ubicado en **Cali, Colombia**.
+- 🚀 Enfocado actualmente en **Optimización 3D (Three.js/R3F)** y Arquitecturas **Serverless**.
+- 🎓 Estudiante de Ingeniería con énfasis en desarrollo de sistemas complejos.
+
+---
+
+### 🛠️ Core Stack
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS` |
+| **3D & Design** | `Three.js`, `React Three Fiber`, `Blender`, `Figma` |
+| **Backend & DB** | `Node.js`, `Python`, `Supabase`, `Firebase`, `PostgreSQL` |
+| **Herramientas** | `Git`, `GitHub Actions`, `Adobe Illustrator`, `Vercel` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-david-arzayus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00C2FF&icon_color=1A73E8&text_color=e0e0e0&bg_color=050608" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-david-arzayus&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=e0e0e0&bg_color=050608" />
+</p>
+
+---
+
+### 📬 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:juandavidarzayus@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mshibanami/line-chart-card/master/sample.svg" width="100%" />
+</p>
+
+<p align="center"><i>"Construyendo el futuro, una línea de código a la vez."</i></p>
