@@ -39,8 +39,8 @@ Desarrollador enfocado en la intersección entre el **diseño visual de alto niv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-david-arzayus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00C2FF&icon_color=1A73E8&text_color=e0e0e0&bg_color=050608" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-david-arzayus&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=e0e0e0&bg_color=050608" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanarzayus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00C2FF&icon_color=1A73E8&text_color=e0e0e0&bg_color=050608" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanarzayus&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=e0e0e0&bg_color=050608" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Desarrollador enfocado en la intersección entre el **diseño visual de alto niv
 ### 📬 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/juan-david-arzayus-vallejo-84a299245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:juandavidarzayus@hotmail.com">
@@ -57,7 +57,7 @@ Desarrollador enfocado en la intersección entre el **diseño visual de alto niv
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshibanami/line-chart-card/master/sample.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00C2FF&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center"><i>"Construyendo el futuro, una línea de código a la vez."</i></p>
