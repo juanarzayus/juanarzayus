@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Juan David Arzayus 👋
+# ¡Hola! Soy Juan David Arzayus 
 
-### Desarrollador Full-Stack · Diseñador de software · Creative Technologist
+### Desarrollador  · Diseñador de software · Creative Technologist
 
 Construyo productos web que combinan **interfaces cuidadas**, **arquitecturas modernas** y **experiencias interactivas**.
 
